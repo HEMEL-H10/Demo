@@ -2,7 +2,6 @@
 This is my first repository.
 author-Hemel
 <br>
-<!doctype html>
 <html>
 <head>
   <h1>HEMEL</h1>
